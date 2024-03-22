@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1507.4" height="287" viewBox="0 0 1507.4 287">
+  <defs>
+    <linearGradient id="a" data-name="白、黑 2" x1="5394.16" y1="-19275.94" x2="5394.16" y2="-19562.94" gradientTransform="translate(6811.2 -19275.9) rotate(180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#050000"/>
+    </linearGradient>
+    <linearGradient id="b" x1="69.11" y1="287" x2="69.11" y2="0" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a"/>
+    <linearGradient id="c" x1="0" y1="36.8" x2="1507.45" y2="36.8" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a"/>
+    <linearGradient id="d" x1="3977.09" y1="-19236.44" x2="5484.54" y2="-19236.44" gradientTransform="translate(5484.5 -19000.7) rotate(180)" xlink:href="#a"/>
+  </defs>
+  <g>
+    <g>
+      <line x1="1417.1" y1="287" x2="1417.1" style="fill: none;stroke-miterlimit: 10;stroke-width: 0.818602309614245px;opacity: 0.5;stroke: url(#a)"/>
+      <line x1="69.1" x2="69.1" y2="287" style="fill: none;stroke-miterlimit: 10;stroke-width: 0.818602309614245px;opacity: 0.5;stroke: url(#b)"/>
+      <line y1="36.8" x2="1507.4" y2="36.8" style="fill: none;stroke-miterlimit: 10;stroke-width: 0.818602309614245px;opacity: 0.5;stroke: url(#c)"/>
+      <line x1="1507.4" y1="235.7" y2="235.7" style="fill: none;stroke-miterlimit: 10;stroke-width: 0.818602309614245px;opacity: 0.5;stroke: url(#d)"/>
+    </g>
+    <g style="opacity: 0.42">
+      <path d="M246.2,40V70.3c-67.3-11.6-118.6,3-118.3,67.6.4,61.1,49.5,78.4,118.3,66.3v30.2C158.6,247.7,77.8,225.5,70,149.8,60.7,60.4,148.6,20.4,246.2,40" style="fill: #e6e6e6"/>
+      <path d="M520.1,169.8H403.2c.3,46.4,63.1,45,103.8,35.4,2.8,6.4-.8,17.9-.1,26.4-54.6,13.5-117.8,9-139.8-30.8-15.9-28.6-12.6-75.4,10.2-99.5,25.5-27.2,94-33.1,122.6-2.6,16,17,20.3,39.2,20.2,71.1M403.2,143.5h68.3c3.1-52-68.4-51.3-68.3,0" style="fill: #e6e6e6"/>
+      <path d="M692.6,234.2c-58.8,3.9-152.8,19.4-149.4-49.5,2.1-43.8,64.2-44.3,104.7-42.5,7.7-49.3-62.9-33.6-94.1-29.5-.1-8.2,0-19.2,0-28.7,42.4-4.8,102.7-12,126.8,13.3,19.4,20.4,10.3,86.1,12,136.9m-98.3-32.6c7.8,12.6,34.3,8.6,53.6,7.7V168.5c-33-1.9-73.3,1.3-53.6,33.1" style="fill: #e6e6e6"/>
+      <rect x="284.6" y="38.3" width="42.8" height="198.67" style="fill: #e6e6e6"/>
+      <path d="M967.5,88.9l-56,124s-4.7,16.9,8,20.1h110.3s14.6-2.4,10-18.1L983.2,88.4s-7.3-13.9-15.7.5" style="fill: #e6e6e6"/>
+      <path d="M726.6,80.9l-.7,154,43.7.7.7-114s54.7-20.5,62.3,4l.6,109.6h45l-.3-115.9s-2.3-68.2-112.2-23.8V80.9Z" style="fill: #e6e6e6"/>
+      <path d="M1107.7,81.3h-44.4V193.2s.8,76.5,111.3,28.5v12.1h39.7V82.1h-43.7V193.2s-52.7,28.5-62.3-6.9Z" style="fill: #e6e6e6"/>
+      <path d="M1340.2,75.9s-55.9-3-94.5-.5V271h46.8V235.6s29.2,2.6,54.3-.4c0,0,64.3-3.9,69.6-69.5,0,0,15.2-79.8-76.2-89.8m21.2,95.5c-6.6,31.1-34.4,35.4-34.4,35.4l-34.5-.7V104.8l37.4.3c40.7,14.2,31.5,66.3,31.5,66.3" style="fill: #e6e6e6"/>
+    </g>
+  </g>
+</svg>

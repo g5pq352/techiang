@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1507.4" height="428.3" viewBox="0 0 1507.4 428.3">
+  <defs>
+    <linearGradient id="a" data-name="白、黑 2" x1="15974.39" y1="-10200.79" x2="15974.39" y2="-10629.07" gradientTransform="translate(17391.5 -10200.8) rotate(180)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#050000"/>
+    </linearGradient>
+    <linearGradient id="b" x1="69.11" y1="428.29" x2="69.11" y2="0" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a"/>
+    <linearGradient id="c" x1="0" y1="54.92" x2="1507.45" y2="54.92" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a"/>
+    <linearGradient id="d" x1="14557.32" y1="-10277.32" x2="16064.77" y2="-10277.32" gradientTransform="translate(16064.8 -9925.6) rotate(180)" xlink:href="#a"/>
+  </defs>
+  <g style="isolation: isolate">
+    <g style="mix-blend-mode: soft-light">
+      <g>
+        <line x1="1417.1" y1="428.3" x2="1417.1" style="fill: none;stroke-miterlimit: 10;opacity: 0.5;stroke: url(#a)"/>
+        <line x1="69.1" x2="69.1" y2="428.3" style="fill: none;stroke-miterlimit: 10;opacity: 0.5;stroke: url(#b)"/>
+        <line y1="54.9" x2="1507.4" y2="54.9" style="fill: none;stroke-miterlimit: 10;opacity: 0.5;stroke: url(#c)"/>
+        <line x1="1507.4" y1="351.8" y2="351.8" style="fill: none;stroke-miterlimit: 10;opacity: 0.5;stroke: url(#d)"/>
+      </g>
+      <g>
+        <polygon points="1091.3 85.7 1258.1 85.7 1258.1 144.5 1211 144.5 1211 336.9 1138.9 336.9 1138.9 144.5 1092.4 144.5 1091.3 85.7"/>
+        <polygon points="863.7 85.7 935.3 85.7 935.3 177.5 1000 177.5 1000 85.7 1071.1 85.7 1071.1 336.9 1000 336.9 1000 242.8 935.3 242.8 935.3 336.9 863.7 336.9 863.7 85.7"/>
+        <rect x="607.7" y="85.7" width="69.4" height="251.2"/>
+        <polygon points="413.2 85.7 584.2 85.7 584.2 144.5 484.2 144.5 484.2 177.8 553.5 177.8 553.5 242.8 484.2 242.8 484.2 276 582.1 276 582.1 336.9 413.2 336.9 413.2 85.7"/>
+        <polygon points="240.6 85.7 312.7 85.7 312.7 275.7 395.2 275.7 395.2 336.9 240.6 336.9 240.6 85.7"/>
+        <path d="M844.3,144.8c-27-1.9-56.6,5.2-72.1,31.9-11.1,16.8-13.6,43.4-4.6,62.1,6.8,17.4,25.7,33.5,43.6,37.4a143,143,0,0,0,29.5,1.5l.2,61c-54.4,4.9-105.2-15.5-132.5-63.7-22.8-38.6-20-96.9,6.1-133,29.2-42.8,78.2-61.9,129.9-54Z"/>
+        <polygon points="1090.2 85.7 1258.1 85.7 1258.1 144.5 1211 144.5 1211 336.9 1139.4 336.9 1139.4 144.5 1090.2 144.5 1090.2 85.7"/>
+      </g>
+    </g>
+  </g>
+</svg>

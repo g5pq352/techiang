@@ -1,0 +1,11 @@
+Time : 17:48:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set WHERE d_class1='buildingOne' AND d_id=file_d_id AND file_type='buildingOneCover' AND d_class2=? AND d_active=1 ORDER BY
+
+Time : 17:48:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='buildingOne' AND d_class2=c_id AND d_id=file_d_id AND file_type='buildingOneCover' AND (d_class2=? || 3=0) AND d_active=1 ORDER BY
+
+Time : 17:13:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DESCLIMIT ?, ?' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND d_id=file_d_id AND file_type='newsCover' AND (d_class2=? || 0=0) AND d_active=1 ORDER BY d_date DESCLIMIT ?, ?

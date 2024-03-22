@@ -1,0 +1,19 @@
+Time : 04:34:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 04:26:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 and 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 04:14:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x3936313537383' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39 and '1'='1=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 04:14:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=0) A' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 03:49:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''[0]=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'[0]=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC

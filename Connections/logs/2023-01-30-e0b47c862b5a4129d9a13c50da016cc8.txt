@@ -1,0 +1,19 @@
+Time : 17:27:26
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 0=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?
+
+Time : 10:25:34
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 0=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?
+
+Time : 02:47:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_da' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 3'=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 02:17:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 1'=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 02:14:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9'=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC

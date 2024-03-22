@@ -1,0 +1,27 @@
+Time : 22:51:29
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?
+
+Time : 19:35:42
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 0=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?
+
+Time : 18:46:41
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 0=0) AND d_id=file_d_id AND file_type='recipeCover'  AND (d_title LIKE '%%' OR d_title_en LIKE '%%' OR d_content LIKE '%%') AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?
+
+Time : 14:03:15
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?
+
+Time : 14:02:29
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 0=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?
+
+Time : 09:45:20
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 0=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?
+
+Time : 04:13:44
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 0=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?

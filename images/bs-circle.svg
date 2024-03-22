@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="164.9" height="164.9" viewBox="0 0 164.9 164.9">
+  <defs>
+    <linearGradient id="a" data-name="未命名漸層 115" y1="82.43" x2="164.87" y2="82.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#cf121f"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <circle cx="82.4" cy="82.4" r="82.2" style="fill: none;stroke-miterlimit: 10;stroke-width: 0.5px;stroke: url(#a)"/>
+    <circle cx="82.4" cy="82.4" r="82.2" style="fill: #fff;opacity: 0.5"/>
+  </g>
+</svg>

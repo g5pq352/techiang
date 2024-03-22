@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70.7" height="126.3" viewBox="0 0 70.7 126.3">
+  <defs>
+    <linearGradient id="a" data-name="未命名漸層 58" x1="4999.37" y1="7169.84" x2="5070.1" y2="7169.84" gradientTransform="translate(5280.7 7108.2) rotate(178.3)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.07" stop-color="#fefcfb"/>
+      <stop offset="0.14" stop-color="#fbf2f0"/>
+      <stop offset="0.21" stop-color="#f6e3dc"/>
+      <stop offset="0.28" stop-color="#efcdc1"/>
+      <stop offset="0.34" stop-color="#e6b09e"/>
+      <stop offset="0.41" stop-color="#db8e74"/>
+      <stop offset="0.43" stop-color="#d88468"/>
+      <stop offset="0.59" stop-color="#d36a57"/>
+      <stop offset="0.93" stop-color="#c7292a"/>
+      <stop offset="1" stop-color="#c41b21"/>
+    </linearGradient>
+    <linearGradient id="b" x1="35.37" y1="0" x2="35.37" y2="102.93" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a"/>
+    <linearGradient id="c" x1="35.36" y1="0" x2="35.36" y2="102.93" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#a"/>
+  </defs>
+  <g>
+    <circle cx="35.4" cy="90.9" r="35.2" transform="translate(-56.6 123.6) rotate(-88.3)" style="fill: none;stroke-miterlimit: 10;stroke-width: 0.25px;stroke: url(#a)"/>
+    <g>
+      <line x1="35.4" x2="35.4" y2="101.5" style="fill: none;stroke-miterlimit: 10;stroke-width: 0.864767918606851px;stroke: url(#b)"/>
+      <path d="M29.6,93.2a.6.6,0,0,1,.8.2l5,7.8,4.9-7.8a.6.6,0,0,1,1.1.6l-5.5,8.6a.6.6,0,0,1-1,0L29.4,94a.4.4,0,0,1-.1-.3A.5.5,0,0,1,29.6,93.2Z" style="fill: url(#c)"/>
+    </g>
+  </g>
+</svg>

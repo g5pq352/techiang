@@ -1,0 +1,7 @@
+Time : 16:23:39
+SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query
+Raw SQL : SELECT * FROM data_set, file_set WHERE d_class1='news' AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC, d_date DESC LIMIT 5
+
+Time : 16:23:39
+SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query
+Raw SQL : SELECT * FROM data_set, file_set WHERE d_class1='news' AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC, d_date DESC LIMIT 5

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="73.6" height="114.2" viewBox="0 0 73.6 114.2">
+  <defs>
+    <linearGradient id="a" data-name="白、黑 3" x1="-9887.46" y1="10453.76" x2="-9813.88" y2="10453.76" gradientTransform="translate(463.2 14394.1) rotate(135)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#040000"/>
+    </linearGradient>
+    <linearGradient id="b" x1="-5555.31" y1="14610.76" x2="-5516.37" y2="14675.57" gradientTransform="translate(-5499 14713.4) rotate(180)" xlink:href="#a"/>
+  </defs>
+  <g>
+    <circle cx="36.8" cy="36.8" r="36.5" style="fill: none;stroke-miterlimit: 10;stroke-width: 0.5px;stroke: url(#a)"/>
+    <line x1="36.8" y1="114.2" x2="36.8" y2="26.3" style="fill: none;stroke-miterlimit: 10;stroke-width: 0.5px;stroke: url(#b)"/>
+  </g>
+</svg>

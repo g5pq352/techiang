@@ -1,0 +1,11 @@
+Time : 16:48:42
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 0=0) AND d_id=file_d_id AND file_type='recipeCover'  AND (d_title LIKE '%%' OR d_title_en LIKE '%%' OR d_content LIKE '%%') AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?
+
+Time : 14:12:39
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 2=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?
+
+Time : 03:21:10
+SQLSTATE[HY000]: General error: 1210 Incorrect arguments to mysqld_stmt_execute
+Raw SQL : SELECT * FROM data_set, file_set, class_set WHERE d_class1='recipe' AND d_class2=c_id AND (d_class2=? || 0=0) AND d_id=file_d_id AND file_type='recipeCover' AND d_active=1 ORDER BY d_date DESC LIMIT ?, ?

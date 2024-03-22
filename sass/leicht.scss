@@ -1,0 +1,96 @@
+@import 'foundation';
+@import "reset";
+@import "base";
+@import "public";
+
+// --------------- custom faoundation settings here --------------------
+$global-margin: 20px;
+$global-padding: 20px;
+$prototype-spacing-breakpoints: true;
+$prototype-spacers-count: 8;
+$breakpoint-classes: (small medium large xlarge xxlarge);
+$breakpoints: (
+	small: 0px,
+	medium: 640px,
+	large: 1025px,
+	xlarge: 1200px,
+	xxlarge: 1600px,
+);
+
+@include foundation-xy-grid-classes;
+@include foundation-prototype-spacing;
+@include foundation-flex-classes;
+@include foundation-visibility-classes;
+@include foundation-text-alignment;
+
+.grid-y>.shrink{
+	width: auto;
+}
+
+
+body{
+	background: #ececec;
+}
+canvas{
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+.pic-1{
+	width: 800px;
+	margin: 300px auto;
+}
+.pic-2{
+	width: 500px;
+	margin: 600px auto;
+}
+.index-bannerWrap{
+	position: relative;
+	height: 100vh;
+	.banner{
+		opacity: 0;
+		transition: opacity 2s;
+		&.is-show{opacity: 1;}
+		&.vegas-container{height: 100% !important;}
+		&:after{
+			content: '';
+			position: absolute;
+			top: 0;
+			right: 0;
+			bottom: 0;
+			left: 0;
+			background-color: rgba(#000 , .4);
+		}
+	}
+	.ryder-magic{
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		margin-top: -100px;
+		.filter-area{}
+		.picList{
+			image{
+				opacity: 0;
+				transition: opacity 2s;
+				&.is-show{opacity: 1;}
+			}
+		}
+	}
+	.handwriting-arae{
+		width: 352px;
+		height: 152px;
+		position: relative;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		svg{
+			position: absolute;
+			top: 0;
+			left: 0;
+		}
+	}
+}

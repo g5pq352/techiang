@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1173.6" height="156" viewBox="0 0 1173.6 156">
+  <defs>
+    <linearGradient id="a" data-name="未命名漸層 26" x1="-7405.73" y1="2328.82" x2="-7238.42" y2="2320.05" gradientTransform="translate(2911.2 7400.1) rotate(90)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.28" stop-color="#b5b5b5"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="586.8" cy="78" rx="586.3" ry="77.5" style="fill: none;stroke-miterlimit: 10;stroke: url(#a)"/>
+</svg>
