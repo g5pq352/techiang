@@ -12,10 +12,17 @@ ini_set('date.timezone', 'Asia/Taipei');
 
 
 // 後台懶得改成用class的方式
-define("HOSTNAME", "localhost");
-define("DATABASE", "kaokutw_leicht");
-define("USERNAME", "kaokutw_user");
-define("PASSWORD", "kx=6UVY=!q+_");
+if($_SERVER['HTTP_HOST'] == "127.0.0.1" || $_SERVER['HTTP_HOST'] == "localhost"){
+    define("HOSTNAME", "localhost");
+    define("DATABASE", "leicht");
+    define("USERNAME", "root");
+    define("PASSWORD", "");
+}else{
+    define("HOSTNAME", "sfo1.clusters.zeabur.com:31104");
+    define("DATABASE", "techiang");
+    define("USERNAME", "root");
+    define("PASSWORD", "3Jh6AY4T2xPg9ovLiCFd5a10c8l7uIRM");
+}
 
 try {
     $dsn = "mysql:host=". HOSTNAME .";dbname=". DATABASE .";charset=utf8";
