@@ -10,7 +10,7 @@ include("PHPMailer/PHPMailerAutoload.php");
 // 產生 Mailer 實體
 $phpmailer = new PHPMailer();
 
-$phpmailer->SMTPDebug = 2;
+$phpmailer->SMTPDebug = 4;
 
 // 讓phpmailer 不要自動使用SSL連線(適用於PHP 5.6以上，非5.6可不用這段)
 $phpmailer->SMTPOptions = array(
