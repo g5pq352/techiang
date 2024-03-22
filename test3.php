@@ -49,21 +49,21 @@ $phpmailer->Password = "3edcxsw2!QAZ";  //此處為上方電子郵件帳號的�
 $phpmailer->From = "no-reply@techiang.com.tw"; //此處為寄出後收件者顯示寄件者的電子郵件 (請設成與上方驗証電子郵件一樣的位址)
 $phpmailer->FromName = "德匠名㕑"; //此處為寄出後收件者顯示寄件者的名稱
 
-$mail->Subject = "信件標題"; //信件主旨
+$phpmailer->Subject = "信件標題"; //信件主旨
 
-$mail->Body = "這是一封測是信!";   //信件內容
+$phpmailer->Body = "這是一封測是信!";   //信件內容
 
-$mail->IsHTML(true);
+$phpmailer->IsHTML(true);
 
 // 收件人
 
-$mail->AddAddress("maysuregun@gmail.com", "someone");
+$phpmailer->AddAddress("maysuregun@gmail.com", "someone");
 
 // 顯示訊息
 
-if(!$mail->Send()) {
+if(!$phpmailer->Send()) {
 
-echo "Mail error: " . $mail->ErrorInfo;     
+echo "Mail error: " . $phpmailer->ErrorInfo;     
 
 } else {
 
