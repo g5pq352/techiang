@@ -10,7 +10,7 @@ include("PHPMailer/PHPMailerAutoload.php");
 // 產生 Mailer 實體
 $phpmailer = new PHPMailer();
 
-$phpmailer->SMTPDebug = 0;
+$phpmailer->SMTPDebug = 2;
 
 // 讓phpmailer 不要自動使用SSL連線(適用於PHP 5.6以上，非5.6可不用這段)
 $phpmailer->SMTPOptions = array(
@@ -28,10 +28,10 @@ $phpmailer->IsSMTP();
 $phpmailer->SMTPAuth = true;      
 $phpmailer->Host = "mail.techiang.com.tw"; //此處請填寫您的郵件伺服器位置,通常是mail.網址。如果您MX指到外地，那這邊填入www.XXX.com 即可
 
-$phpmailer->SMTPSecure = 'ssl';
+$phpmailer->SMTPSecure = 'tls';
 
 // $phpmailer->Port = 25; //ServerZoo主機的郵件伺服器port為 25 
-$phpmailer->Port = 465;
+$phpmailer->Port = 587;
 
 // $phpmailer->SMTPAutoTLS = false; 
 
