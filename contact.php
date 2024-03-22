@@ -360,7 +360,7 @@ $_SESSION['checkPost'] = 0;
 				<input type="hidden" name="privacy">
 
 				<div class="g-recaptcha"
-					data-sitekey="6LeJ9qcUAAAAAI3N4h-Gj4d8I4exJA7-cp2hsU2s"
+					data-sitekey="6Lf66SIcAAAAAGlLfl2BbVVw1CMSw9owXadIO_eJ"
 					data-callback="onSubmit"
 					data-size="invisible"
 					style="display: none;">

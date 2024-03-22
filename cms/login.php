@@ -91,7 +91,7 @@ if (isset($_POST['use_rname'])) {
                         <?php } ?>
                     </ul>
                     <input name="submitBtn" type="submit" class="btnType" id="submitBtn" value="送出"
-                        data-sitekey="6Lf2eTUUAAAAAA2C6bGhcsp6tTt96UunVj-BeUy_"
+                        data-sitekey="6Lf66SIcAAAAAGlLfl2BbVVw1CMSw9owXadIO_eJ"
                         data-callback="onSubmit"
                         error-callback="onError"
                         data-size="invisible">
