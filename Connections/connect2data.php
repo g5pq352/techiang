@@ -1,7 +1,6 @@
 <?php
-
 if (!isset($_SESSION)) {
-	session_start();
+    session_start();
 }
 
 ob_start();
@@ -11,7 +10,6 @@ ini_set('date.timezone', 'Asia/Taipei');
 
 ini_set('display_errors', 0);
 error_reporting(E_ALL);
-
 
 
 // 後台懶得改成用class的方式

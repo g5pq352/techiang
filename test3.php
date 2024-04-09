@@ -30,7 +30,7 @@ $phpmailer->Host = "mail.techiang.com.tw"; //此處請填寫您的郵件伺服�
 
 $phpmailer->SMTPSecure = 'tls';
 
-// $phpmailer->Port = 25; //ServerZoo主機的郵件伺服器port為 25 
+// $phpmailer->Port = 25; //ServerZoo主機的郵件伺服器port為 25   
 $phpmailer->Port = 587;
 
 // $phpmailer->SMTPAutoTLS = false; 
